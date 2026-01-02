@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
+pandas
+# Optional database drivers (install as needed)
+# psycopg2-binary  # For PostgreSQL
+# pymysql  # For MySQL
